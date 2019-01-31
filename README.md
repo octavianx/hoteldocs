@@ -1,0 +1,2 @@
+# hoteldocs
+hotel industry glossary
